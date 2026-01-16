@@ -1,0 +1,11 @@
+
+a = int(input("Введите значение для a: "))
+b = int(input("Введите значение для b: "))
+x = int(input("Введите значение для x: "))
+y = int(input("Введите значение для y: "))
+print(f"2 кг")
+print(f"{a} 1")
+print(f"{x} {y}")
+print(f"13 17")
+print(f"19 {b}")
+print(f"5 {y}")
